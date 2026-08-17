@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m <b>Mohammed B Alrasasi</b><br><br>📚 A computer science student at at <b>King Fahd University of Petroleum and Minerals</b><br><br>🤖 Currently diving deep into AI at KAUST Academy<br><br>💼 Interested in data analysis, software engineering, project management, and business<br><br>✉️ Reach me at: muhmmedbaqer9@gmail.com<br><br>🔍 Looking to explore and learn more in the field<br><br>⚡ Fun fact: Always hungry for knowledge and new challenges!<br><br>
+Hi, I’m <b>Mohammed B Alrasasi</b><br><br>📚 A computer science student at at <b>King Fahd University of Petroleum and Minerals</b><br><br>💼 Interested in AI, data analysis, software engineering, project management, and business<br><br>✉️ Reach me at: muhmmedbaqer9@gmail.com<br><br>🔍 Looking to explore and learn more in the field<br><br>⚡ Fun fact: Always hungry for knowledge and new challenges!<br><br>
 
 
 ## 🌐 Socials:
